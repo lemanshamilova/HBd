@@ -4,10 +4,14 @@ document.getElementById("surpriseBtn").addEventListener("click", function() {
   });
 
   const messages = [
-  "🎈 Bu gün sənin günündür!",
-  "💖 Yeni yaşın uğur gətirsin!",
-  "✨ Xoşbəxtlik və sevgi dolu illər!",
-  "🎂 Hər zaman gülümsə!"
+  "🎈 Today is the day the world became brighter.",
+  "💖 -because you were born.",
+  "✨ You are not just favorite person,",
+  "🎂 you're my heart's safest place.",
+  "✨ l'm so lucky to love you.",
+  "💖 Here's to many more birthdays by your side",
+
+
 ];
 
 let current = 0;
